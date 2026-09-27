@@ -1,12 +1,12 @@
 <img src="./banner.png" alt="Fuad Chowdhury Safwan - Frontend Developer" width="100%" />
 
-# Hi, I'm Fuad Chowdhury Safwan 👋
+## Hi, I'm Fuad Chowdhury Safwan 👋
 
 ### Frontend Developer | React & Next.js
 
-I build clean, responsive, and user-friendly web experiences.
+I build clean, responsive, and user-friendly web experiences with React and Next.js.
 
-I'm focused on turning ideas into practical web applications while continuously improving my frontend development skills.
+I'm focused on turning ideas into practical web applications and continuously improving my frontend development skills.
 
 ---
 
